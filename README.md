@@ -74,7 +74,7 @@ If you liked this project or found it helpful, feel free to ⭐ star the repo or
 
 ### 🔗 Connect with Me
 
-[LinkedIn Profile](#) <!-- Replace with your LinkedIn URL -->
+www.linkedin.com/in/ashif12<!-- Replace with your LinkedIn URL -->
 
 ---
 
