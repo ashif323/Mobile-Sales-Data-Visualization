@@ -29,9 +29,8 @@ This project is an interactive Power BI dashboard built using mobile phone sales
 
 ## 📷 Dashboard Screenshot
 
-> *(Replace the image below after uploading your screenshot to the repository)*
+<img width="1338" height="744" alt="Screenshot 2025-08-16 112214" src="https://github.com/user-attachments/assets/bcdaadb5-a0e9-4c2f-bfc9-e3f7fbb6df31" />
 
-![Dashboard Screenshot](images/mobile_sales_dashboard.png)
 
 ---
 
